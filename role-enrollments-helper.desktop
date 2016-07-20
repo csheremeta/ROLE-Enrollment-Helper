@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=ROLE Enrollments Helper
+Comment=ROLE Enrollments Helper
+Exec=/usr/share/role-enrollments-helper/ROLE-enrollments.sh
+Terminal=false
+Name[en_US]=ROLE Enrollments Helper
