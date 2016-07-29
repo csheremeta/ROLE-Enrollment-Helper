@@ -6,6 +6,7 @@ License:	ASL 2.0
 Source0:	ROLE_helper.py
 Source1:	ROLE-enrollments.sh
 Source2:	role-enrollments-helper.desktop
+URL:      https://github.com/csheremeta/ROLE-Enrollment-Helper
 
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
 BuildArch:	noarch
