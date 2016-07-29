@@ -3,7 +3,6 @@ Summary:	Program to help generate spreadsheet with ROLE enrollment requests
 Version:	1.0.0
 Release:	1%{?release_suffix}%{?dist}
 License:	ASL 2.0
-URL:		https://github.com/patternfly/rcue
 Source0:	ROLE_helper.py
 Source1:	ROLE-enrollments.sh
 Source2:	role-enrollments-helper.desktop
